@@ -1,6 +1,6 @@
 ## Sigma
 
-A Frappe App for Custoomized HR, Payroll and Loan.
+A Frappe App for Customized HR, Payroll and Loan.
 
 #### License
 
